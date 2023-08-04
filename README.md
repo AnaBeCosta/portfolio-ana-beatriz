@@ -1,4 +1,6 @@
-# Meu Portfólio
+# 🚧 Projeto em construção 🚧
+
+### Meu Portfólio
 
 Este é o meu portfólio pessoal, um site desenvolvido para exibir meus trabalhos, projetos e habilidades. Utilizei tecnologias como HTML, CSS e JavaScript para criar este site responsivo. Visite ### para conhecer mais sobre meu trabalho!
 
